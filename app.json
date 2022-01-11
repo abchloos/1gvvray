@@ -1,28 +1,28 @@
 {
-  "name": "随便",
-  "description": "随便",
+  "name": "1gvvray",
+  "description": "1gvvray",
   "keywords": [
-    "随便"
+    "1gvvray"
   ],
   "env": {
     "PROTOCOL": {
-      "description": "协议VMess或VLESS，请填小写的vmess或vless",
+      "description": "minipvmessorvless",
       "value": "vmess",
       "required": true
     },
     "UUID": {
-      "description": "用户的主ID",
+      "description": "uID",
       "value": "",
       "required": false
     },
     "WS_PATH": {
-      "description": "websocket路径",
+      "description": "websocketlj",
       "value": "/ray",
       "required": true
     }
   },
-  "website": "https://github.com/用户名/仓库名",
-  "repository": "https://github.com/用户名/仓库名",
+  "website": "https://github.com/abchloos/1gvvray",
+  "repository": "https://github.com/abchloos/1gvvray",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
